@@ -1,0 +1,21 @@
+* {
+    /* border: 1px solid black; */
+}
+.par-text, ul {
+    width: 60%;
+}
+ img {
+    width: 50vw;
+    height: auto;
+ }
+
+ #ing {
+    height: 200px;
+    width: auto;
+    top: 60px;
+    left: 400px;
+ }
+
+ #list {
+    /* padding-left: 50px; */
+ }
